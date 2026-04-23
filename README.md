@@ -1,3 +1,3 @@
 # Abhi-kakde
 This is my first Git Repository.
-Author - Abhi kadke
+Author - Abhi kakde
